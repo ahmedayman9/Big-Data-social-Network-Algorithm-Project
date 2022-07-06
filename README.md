@@ -19,7 +19,3 @@ In this project, you are given a comma separated file to represent some twitter 
 - Get **recommendations** for individuals to follow.
 
 
-<h1 align="center">
-  <img src="https://github.com/ahmedayman9/Big-Data-social-Network-Algorithm-Project/blob/main/ds.png" width="600px" />
-</h1>
-
